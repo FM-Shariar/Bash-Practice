@@ -1,0 +1,7 @@
+1. Write a shell program that will print “Hello world” in 12 times using while loop. 
+2. Write a shell program that will print a variable range from 1 to 100 using for loop [USE all the syntax] 
+3. Write a shell program that will print numbers from 4 to 60, which will increase by 5. 
+4. Write a shell program that will select a department name (Ex. CS, IT, ECE, EE) and when we give an input regarding the department then it will print their department name. 
+5. Write a shell program that will select a fruit name (Ex. APPLE, BANANA, MANGO, ORANGE, GRAPES, PINEAPPLE) and when we give an input regarding fruit name then it will print their fruit availability number. 
+6. Write a shell program that will print numbers from 2 to 18 except 5, 8. 
+7. Write a shell program that will print numbers from 15 to 30 using an until loop but stopping when the number 26 is encountered. 
