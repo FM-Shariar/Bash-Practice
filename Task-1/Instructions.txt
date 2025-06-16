@@ -1,0 +1,6 @@
+1. Write a shell program that prints your NAME, ID, COURSE NAME and SECTION using variables. 
+2. Write a shell program that takes user input of your NAME, AGE, UNIVERSITY NAME and print it. 
+3. Write a shell program that performs Arithmetic Operators operations using four variables. 
+4. Write a shell program that performs Relational Operators operations using two variables. 
+5. Write a shell program that performs String Operators operations by using two variables. 
+6. Write a shell program that performs Floating Point Calculation using four variables. 
